@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Udemi Curso</string>
+    <string name="Distancia">Distancia</string>
+    <string name="Preço">Preço</string>
+    <string name="Autonomia">Autonomia</string>
+    <string name="preencha_todos_os_campos">Preencha todos os campos</string>
+</resources>
